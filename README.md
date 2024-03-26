@@ -1,6 +1,6 @@
 ## Personal Website
 
-This is a personal website built with ReactJS, Chakra UI, and Firebase. It serves as a portfolio and showcases your skills, projects, and other relevant information.
+This is a personal website built with ReactJS, Chakra UI, and Firebase. It serves as a portfolio and showcases my skills, projects, and other relevant information.
 
 ## Table of Contents
 
